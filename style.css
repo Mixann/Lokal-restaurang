@@ -1,0 +1,296 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  padding: 10px;
+  flex-direction: row;
+}
+header {
+  font-size: 40px;
+  background-color: rgb(80, 80, 255);
+  color: rgb(171, 171, 255);
+  text-align: center;
+}
+img#pic {
+  display: block;
+  width: 30%;
+  margin: auto;
+  border-radius: 20px;
+}
+ .meny-1 {
+  position: relative;
+  width: 400px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px gray;
+}
+.massaman {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+button {
+  position: absolute;
+  background-color: rgb(49, 49, 255);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 1px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+  scale: 1.8;
+  bottom: 25px;
+  right: 25px;
+}
+.pris {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.meny-2 {
+  position: relative;
+  width: 400px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px gray;
+.panko {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+}
+button {
+  position: absolute;
+  background-color: rgb(49, 49, 255);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 1px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+  scale: 1.8;
+  bottom: 25px;
+  right: 25px;
+}
+.inne {
+  font-size: 13px;
+}
+.pris-2 {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.meny-3 {
+  position: relative;
+  width: 400px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px gray;
+}
+.padgra {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.button-3 {
+  position: absolute;
+  background-color: rgb(49, 49, 255);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 1px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+  scale: 1.8;
+  bottom: 25px;
+  right: 25px;
+}
+.inne-3 {
+  top: 20px;
+  font-size: 13px;
+}
+.pris-3 {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.meny-4 {
+  position: relative;
+  width: 400px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px gray;
+}
+.kha {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.button-4 {
+  position: absolute;
+  background-color: rgb(49, 49, 255);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 1px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+  scale: 1.8;
+  bottom: 25px;
+  right: 25px;
+}
+.inne-4 {
+  top: 20px;
+  font-size: 13px;
+}
+.pris-4 {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.meny-5 {
+  position: relative;
+  width: 400px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px gray;
+}
+.padthai {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.button-5 {
+  position: absolute;
+  background-color: rgb(49, 49, 255);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 1px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+  scale: 1.8;
+  bottom: 25px;
+  right: 25px;
+}
+.inne-5 {
+  top: 20px;
+  font-size: 13px;
+}
+.pris-5 {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.meny-6 {
+  position: relative;
+  width: 400px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px gray;
+}
+.baamee {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.button-6 {
+  position: absolute;
+  background-color: rgb(49, 49, 255);
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 1px;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+  scale: 1.8;
+  bottom: 25px;
+  right: 25px;
+}
+.inne-6 {
+  top: 20px;
+  font-size: 13px;
+}
+.pris-6 {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.meny-1,
+.meny-2,
+.meny-3,
+.meny-4,
+.meny-5,
+.meny-6 {
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+.meny-1:hover,
+.meny-2:hover,
+.meny-3:hover,
+.meny-4:hover,
+.meny-5:hover,
+.meny-6:hover {
+  transform: scale(1.1);
+  box-shadow: 14px 14px 24px 12px gray;
+  z-index: 1;
+}
+button {
+  transition:
+    background-color 0.2s ease,
+    scale 0.2s ease;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(30, 30, 200);
+  scale: 2;
+}
+
+.flex-container div{
+    padding: 16px ;
+}
+
+div .inne{
+    margin: 0px 10px 0 55px;
+}
+h2{
+    margin-bottom: 10px;
+}
